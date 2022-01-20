@@ -1,0 +1,105 @@
+
+/* //////head/////// */
+
+
+header{
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+  font-family: 'Aclonica';
+  font-size: 40px;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+h4 {
+  text-align: center;
+}
+
+          /* body */
+
+  img {
+    width: 27.5%;
+    height: 30%;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: 15px;
+    display: block;
+    float: left;
+
+    /* padding-top: 2em; */
+  }
+
+  figcaption{
+    text-align: center;
+    color: rgb(65, 65, 65);
+    font-size: 12px;
+    padding: 5px;
+  }
+  .goldTitle {
+    color: goldenrod;
+  }
+  body {
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/dark-stripes-light.png");
+  }
+
+  .articlebox .boxarticle {
+    padding: 10px; 
+  }
+  
+  .boxarticle {
+    font-size: large;
+    line-height: 32px;
+  }
+
+  section {
+    margin: 50px 0px 50px 0px;
+  }
+
+
+  article {
+    margin: auto;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    width: 860px;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    box-shadow: lightgray 10px 10px;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+
+}
+
+
+/* ///////////this is for the link on Responce 3//////// */
+
+.middle {
+  text-align: center;
+}
+
+.link {
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+
+/* footer */
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(53, 51, 51);
+  color: white;
+  text-align: center;
+}
+
+
+ 
